@@ -1,0 +1,10 @@
+.recipeList {
+    padding: 20px;
+}
+
+.recipeTitle {
+    font-size: 48px;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+}

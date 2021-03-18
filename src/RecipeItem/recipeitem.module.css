@@ -1,0 +1,21 @@
+.recipeItem a{
+    display: flex;
+    margin-top: 20px;
+    border: 1px solid #000;
+    padding: 20px;
+}
+
+.recipeItem:first-child{
+    margin-top: 0;
+}
+
+.imgBlock {
+    display: inline;
+}
+
+
+.textBlock {
+    padding: 0 20px 20px;
+    display: flex;
+    flex-direction: column;
+}
